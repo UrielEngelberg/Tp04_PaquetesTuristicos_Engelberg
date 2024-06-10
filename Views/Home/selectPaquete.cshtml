@@ -1,0 +1,45 @@
+<body>
+        <form method ="" action = '@Url.Action("SelectPaquete")'>
+        @foreach(string ListaDestinos in ViewBag.ListaHoteles){
+          @for(int i = 0; i = OrtWorld.listaDestinos.Count; i++){
+            <p>@OrtWorld.ListaDestinos[i]</p>
+            <img src = "~/@OrtWorld.ListaDestinos[i]">
+          }
+         
+        }
+        <p> ingresa el destino al que quiere ir. > ciudades </p> <br>
+        <input type = "number" name = "NumDestino" max = 10 min ="0" step ="1"/> <br>
+        @foreach(string ListaHoteles in ViewBag.ListaHoteles){
+           @for(int i = 0; i = OrtWorld.ListaHoteles.Count; i++){
+            <p>@OrtWorld.ListaHoteles[i]</p>
+            <img src = "~/@OrtWorld.ListaHoteles[i]">
+          }
+        }
+           <p> ingresa al hotel que quiera ir </p> <br>
+           <input type = "number"  name ="NumHotel" max = 10 min ="0" step ="1"/> <br>
+
+        @foreach(string ListaAereos in  ViewBag.ListaAereos){
+           @for(int i = 0; i = OrtWorld.ListaAereos.Count; i++){
+            <p>@OrtWorld.ListaAereos[i]</p>
+            <img src = "~/@OrtWorld.ListaAereos[i]">
+          } 
+           
+          
+        }
+         <p> ingresa la empresa de avion a la que quiera ir </p> <br>
+          <input type = "number" name = "NumAereo" max = 10 min ="0" step ="1"/> <br>
+
+        @foreach(string ListaAereosistaExcursiones in ViewBag.ListaExcursiones){
+            @for(int i = 0; i = OrtWorld.ListaExcursiones.Count; i++){
+             <p>@OrtWorld.ListaExcursiones[i]</p>
+             <img src = "~/@OrtWorld.ListaExcursiones[i]">
+          }
+        }6
+         <p> ingresa la excursion a la que quiera ir </p> <br>
+        <input type = "number" name = "NumExcursiones" max = 10 min ="0" step ="1"/> <br>
+
+        <input type = "Sumbit"  value ="Sumbit form"> <br>
+    </form>  
+  <p>ir a<a href="selectPaquete">clase</a></p>
+  
+</body>

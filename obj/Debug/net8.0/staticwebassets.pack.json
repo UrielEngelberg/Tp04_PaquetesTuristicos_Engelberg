@@ -1,0 +1,297 @@
+{
+  "Files": [
+    {
+      "Id": "Z:\\Programacion_4\\TP04\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "Z:\\Programacion_4\\TP04\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "Z:\\Programacion_4\\TP04\\wwwroot\\img\\49911_exterior_dusk_2.avif",
+      "PackagePath": "staticwebassets\\img\\49911_exterior_dusk_2.avif"
+    },
+    {
+      "Id": "Z:\\Programacion_4\\TP04\\wwwroot\\img\\640px-Imperial_Hotel_TOKYO_2007.jpg",
+      "PackagePath": "staticwebassets\\img\\640px-Imperial_Hotel_TOKYO_2007.jpg"
+    },
+    {
+      "Id": "Z:\\Programacion_4\\TP04\\wwwroot\\img\\Aeropuerto iberia españa.jpg",
+      "PackagePath": "staticwebassets\\img\\Aeropuerto iberia españa.jpg"
+    },
+    {
+      "Id": "Z:\\Programacion_4\\TP04\\wwwroot\\img\\Excursion matutina sydeny.jpg",
+      "PackagePath": "staticwebassets\\img\\Excursion matutina sydeny.jpg"
+    },
+    {
+      "Id": "Z:\\Programacion_4\\TP04\\wwwroot\\img\\Hotel_Emperador_(Madrid)_01.jpg",
+      "PackagePath": "staticwebassets\\img\\Hotel_Emperador_(Madrid)_01.jpg"
+    },
+    {
+      "Id": "Z:\\Programacion_4\\TP04\\wwwroot\\img\\Hotel_Russell_on_Russell_Square,_London_-_April_2007.jpg",
+      "PackagePath": "staticwebassets\\img\\Hotel_Russell_on_Russell_Square,_London_-_April_2007.jpg"
+    },
+    {
+      "Id": "Z:\\Programacion_4\\TP04\\wwwroot\\img\\Recorrido en bici pasando por el santuario de meji-jimgu tokyo.jpg",
+      "PackagePath": "staticwebassets\\img\\Recorrido en bici pasando por el santuario de meji-jimgu tokyo.jpg"
+    },
+    {
+      "Id": "Z:\\Programacion_4\\TP04\\wwwroot\\img\\Thumbs.db",
+      "PackagePath": "staticwebassets\\img\\Thumbs.db"
+    },
+    {
+      "Id": "Z:\\Programacion_4\\TP04\\wwwroot\\img\\Tour -Sandemans Londres.jpg",
+      "PackagePath": "staticwebassets\\img\\Tour -Sandemans Londres.jpg"
+    },
+    {
+      "Id": "Z:\\Programacion_4\\TP04\\wwwroot\\img\\Tour casa rosada Buenos aires.avif",
+      "PackagePath": "staticwebassets\\img\\Tour casa rosada Buenos aires.avif"
+    },
+    {
+      "Id": "Z:\\Programacion_4\\TP04\\wwwroot\\img\\Turismo nottingham- KAYAK.jpg",
+      "PackagePath": "staticwebassets\\img\\Turismo nottingham- KAYAK.jpg"
+    },
+    {
+      "Id": "Z:\\Programacion_4\\TP04\\wwwroot\\img\\aerolineas-argentinas.jpg",
+      "PackagePath": "staticwebassets\\img\\aerolineas-argentinas.jpg"
+    },
+    {
+      "Id": "Z:\\Programacion_4\\TP04\\wwwroot\\img\\aeropuerto jetBlue inglaterra.jpg",
+      "PackagePath": "staticwebassets\\img\\aeropuerto jetBlue inglaterra.jpg"
+    },
+    {
+      "Id": "Z:\\Programacion_4\\TP04\\wwwroot\\img\\aeropuerto jetBlue inglaterra.zip",
+      "PackagePath": "staticwebassets\\img\\aeropuerto jetBlue inglaterra.zip"
+    },
+    {
+      "Id": "Z:\\Programacion_4\\TP04\\wwwroot\\img\\aeropuerto jetBlue inglaterra\\Aeropuerto iberia españa.jpg",
+      "PackagePath": "staticwebassets\\img\\aeropuerto jetBlue inglaterra\\Aeropuerto iberia españa.jpg"
+    },
+    {
+      "Id": "Z:\\Programacion_4\\TP04\\wwwroot\\img\\aeropuerto jetBlue inglaterra\\Excursion matutina sydeny.jpg",
+      "PackagePath": "staticwebassets\\img\\aeropuerto jetBlue inglaterra\\Excursion matutina sydeny.jpg"
+    },
+    {
+      "Id": "Z:\\Programacion_4\\TP04\\wwwroot\\img\\aeropuerto jetBlue inglaterra\\Recorrido en bici pasando por el santuario de meji-jimgu tokyo.jpg",
+      "PackagePath": "staticwebassets\\img\\aeropuerto jetBlue inglaterra\\Recorrido en bici pasando por el santuario de meji-jimgu tokyo.jpg"
+    },
+    {
+      "Id": "Z:\\Programacion_4\\TP04\\wwwroot\\img\\aeropuerto jetBlue inglaterra\\Tour -Sandemans Londres.jpg",
+      "PackagePath": "staticwebassets\\img\\aeropuerto jetBlue inglaterra\\Tour -Sandemans Londres.jpg"
+    },
+    {
+      "Id": "Z:\\Programacion_4\\TP04\\wwwroot\\img\\aeropuerto jetBlue inglaterra\\Tour casa rosada Buenos aires.avif",
+      "PackagePath": "staticwebassets\\img\\aeropuerto jetBlue inglaterra\\Tour casa rosada Buenos aires.avif"
+    },
+    {
+      "Id": "Z:\\Programacion_4\\TP04\\wwwroot\\img\\aeropuerto jetBlue inglaterra\\Turismo nottingham- KAYAK.jpg",
+      "PackagePath": "staticwebassets\\img\\aeropuerto jetBlue inglaterra\\Turismo nottingham- KAYAK.jpg"
+    },
+    {
+      "Id": "Z:\\Programacion_4\\TP04\\wwwroot\\img\\aeropuerto jetBlue inglaterra\\aeropuerto jetBlue inglaterra.jpg",
+      "PackagePath": "staticwebassets\\img\\aeropuerto jetBlue inglaterra\\aeropuerto jetBlue inglaterra.jpg"
+    },
+    {
+      "Id": "Z:\\Programacion_4\\TP04\\wwwroot\\img\\aeropuerto jetBlue inglaterra\\excurison imperial Roma.jpg",
+      "PackagePath": "staticwebassets\\img\\aeropuerto jetBlue inglaterra\\excurison imperial Roma.jpg"
+    },
+    {
+      "Id": "Z:\\Programacion_4\\TP04\\wwwroot\\img\\aeropuerto jetBlue inglaterra\\hidrodeslizador miami.jpg",
+      "PackagePath": "staticwebassets\\img\\aeropuerto jetBlue inglaterra\\hidrodeslizador miami.jpg"
+    },
+    {
+      "Id": "Z:\\Programacion_4\\TP04\\wwwroot\\img\\aeropuerto jetBlue inglaterra\\japan airlines japon.jpg",
+      "PackagePath": "staticwebassets\\img\\aeropuerto jetBlue inglaterra\\japan airlines japon.jpg"
+    },
+    {
+      "Id": "Z:\\Programacion_4\\TP04\\wwwroot\\img\\aeropuerto jetBlue inglaterra\\madrid-excursion-toledo-dia-completo-589x392.avif",
+      "PackagePath": "staticwebassets\\img\\aeropuerto jetBlue inglaterra\\madrid-excursion-toledo-dia-completo-589x392.avif"
+    },
+    {
+      "Id": "Z:\\Programacion_4\\TP04\\wwwroot\\img\\aeropuerto jetBlue inglaterra\\recorrido por la ciudad AbuDhabi.jfif",
+      "PackagePath": "staticwebassets\\img\\aeropuerto jetBlue inglaterra\\recorrido por la ciudad AbuDhabi.jfif"
+    },
+    {
+      "Id": "Z:\\Programacion_4\\TP04\\wwwroot\\img\\aeropuerto jetBlue inglaterra\\tours en barco-in-New-York-300x226.jpg",
+      "PackagePath": "staticwebassets\\img\\aeropuerto jetBlue inglaterra\\tours en barco-in-New-York-300x226.jpg"
+    },
+    {
+      "Id": "Z:\\Programacion_4\\TP04\\wwwroot\\img\\aitalia italia.webp",
+      "PackagePath": "staticwebassets\\img\\aitalia italia.webp"
+    },
+    {
+      "Id": "Z:\\Programacion_4\\TP04\\wwwroot\\img\\american eeuu.jfif",
+      "PackagePath": "staticwebassets\\img\\american eeuu.jfif"
+    },
+    {
+      "Id": "Z:\\Programacion_4\\TP04\\wwwroot\\img\\anantara_palazzo_naiadi_rome_hotel_new_opening_944x510.jpg",
+      "PackagePath": "staticwebassets\\img\\anantara_palazzo_naiadi_rome_hotel_new_opening_944x510.jpg"
+    },
+    {
+      "Id": "Z:\\Programacion_4\\TP04\\wwwroot\\img\\big-ben-puente-westminster-al-atardecer-londres-reino-unido_268835-1395.avif",
+      "PackagePath": "staticwebassets\\img\\big-ben-puente-westminster-al-atardecer-londres-reino-unido_268835-1395.avif"
+    },
+    {
+      "Id": "Z:\\Programacion_4\\TP04\\wwwroot\\img\\british aerolinia de inglaterra.jfif",
+      "PackagePath": "staticwebassets\\img\\british aerolinia de inglaterra.jfif"
+    },
+    {
+      "Id": "Z:\\Programacion_4\\TP04\\wwwroot\\img\\buenos aires.jpg",
+      "PackagePath": "staticwebassets\\img\\buenos aires.jpg"
+    },
+    {
+      "Id": "Z:\\Programacion_4\\TP04\\wwwroot\\img\\excurison imperial Roma.jpg",
+      "PackagePath": "staticwebassets\\img\\excurison imperial Roma.jpg"
+    },
+    {
+      "Id": "Z:\\Programacion_4\\TP04\\wwwroot\\img\\gettyimages-517465184-612x612.jpg",
+      "PackagePath": "staticwebassets\\img\\gettyimages-517465184-612x612.jpg"
+    },
+    {
+      "Id": "Z:\\Programacion_4\\TP04\\wwwroot\\img\\hidrodeslizador miami.jpg",
+      "PackagePath": "staticwebassets\\img\\hidrodeslizador miami.jpg"
+    },
+    {
+      "Id": "Z:\\Programacion_4\\TP04\\wwwroot\\img\\hotel londres.jpg",
+      "PackagePath": "staticwebassets\\img\\hotel londres.jpg"
+    },
+    {
+      "Id": "Z:\\Programacion_4\\TP04\\wwwroot\\img\\images (1).jfif",
+      "PackagePath": "staticwebassets\\img\\images (1).jfif"
+    },
+    {
+      "Id": "Z:\\Programacion_4\\TP04\\wwwroot\\img\\images (2).jfif",
+      "PackagePath": "staticwebassets\\img\\images (2).jfif"
+    },
+    {
+      "Id": "Z:\\Programacion_4\\TP04\\wwwroot\\img\\images.jfif",
+      "PackagePath": "staticwebassets\\img\\images.jfif"
+    },
+    {
+      "Id": "Z:\\Programacion_4\\TP04\\wwwroot\\img\\istockphoto-165824154-612x612.jpg",
+      "PackagePath": "staticwebassets\\img\\istockphoto-165824154-612x612.jpg"
+    },
+    {
+      "Id": "Z:\\Programacion_4\\TP04\\wwwroot\\img\\japan airlines japon.jpg",
+      "PackagePath": "staticwebassets\\img\\japan airlines japon.jpg"
+    },
+    {
+      "Id": "Z:\\Programacion_4\\TP04\\wwwroot\\img\\madrid-excursion-toledo-dia-completo-589x392.avif",
+      "PackagePath": "staticwebassets\\img\\madrid-excursion-toledo-dia-completo-589x392.avif"
+    },
+    {
+      "Id": "Z:\\Programacion_4\\TP04\\wwwroot\\img\\madrid.jpg",
+      "PackagePath": "staticwebassets\\img\\madrid.jpg"
+    },
+    {
+      "Id": "Z:\\Programacion_4\\TP04\\wwwroot\\img\\miami-beach-florida-december-2021-600nw-2114388779.webp",
+      "PackagePath": "staticwebassets\\img\\miami-beach-florida-december-2021-600nw-2114388779.webp"
+    },
+    {
+      "Id": "Z:\\Programacion_4\\TP04\\wwwroot\\img\\new-york-city-skyline-cityscape-260nw-57571180.webp",
+      "PackagePath": "staticwebassets\\img\\new-york-city-skyline-cityscape-260nw-57571180.webp"
+    },
+    {
+      "Id": "Z:\\Programacion_4\\TP04\\wwwroot\\img\\nottingham-england-january-13-2021-260nw-1892972038.webp",
+      "PackagePath": "staticwebassets\\img\\nottingham-england-january-13-2021-260nw-1892972038.webp"
+    },
+    {
+      "Id": "Z:\\Programacion_4\\TP04\\wwwroot\\img\\qantas australia.jpg",
+      "PackagePath": "staticwebassets\\img\\qantas australia.jpg"
+    },
+    {
+      "Id": "Z:\\Programacion_4\\TP04\\wwwroot\\img\\recorrido por la ciudad AbuDhabi.jfif",
+      "PackagePath": "staticwebassets\\img\\recorrido por la ciudad AbuDhabi.jfif"
+    },
+    {
+      "Id": "Z:\\Programacion_4\\TP04\\wwwroot\\img\\roma.jpg",
+      "PackagePath": "staticwebassets\\img\\roma.jpg"
+    },
+    {
+      "Id": "Z:\\Programacion_4\\TP04\\wwwroot\\img\\saudia arabia saudita.jfif",
+      "PackagePath": "staticwebassets\\img\\saudia arabia saudita.jfif"
+    },
+    {
+      "Id": "Z:\\Programacion_4\\TP04\\wwwroot\\img\\sydney-opera-house-354375_640.jpg",
+      "PackagePath": "staticwebassets\\img\\sydney-opera-house-354375_640.jpg"
+    },
+    {
+      "Id": "Z:\\Programacion_4\\TP04\\wwwroot\\img\\tours en barco-in-New-York-300x226.jpg",
+      "PackagePath": "staticwebassets\\img\\tours en barco-in-New-York-300x226.jpg"
+    },
+    {
+      "Id": "Z:\\Programacion_4\\TP04\\wwwroot\\img\\united eeuu.jfif",
+      "PackagePath": "staticwebassets\\img\\united eeuu.jfif"
+    },
+    {
+      "Id": "Z:\\Programacion_4\\TP04\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "Z:\\Programacion_4\\TP04\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "Z:\\Programacion_4\\TP04\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "Z:\\Programacion_4\\TP04\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "Z:\\Programacion_4\\TP04\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "Z:\\Programacion_4\\TP04\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "Z:\\Programacion_4\\TP04\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "Z:\\Programacion_4\\TP04\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "Z:\\Programacion_4\\TP04\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "Z:\\Programacion_4\\TP04\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "Z:\\Programacion_4\\TP04\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "Z:\\Programacion_4\\TP04\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "Z:\\Programacion_4\\TP04\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.TP04.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.TP04.props",
+      "PackagePath": "build\\TP04.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.TP04.props",
+      "PackagePath": "buildMultiTargeting\\TP04.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.TP04.props",
+      "PackagePath": "buildTransitive\\TP04.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

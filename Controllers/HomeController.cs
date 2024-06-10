@@ -15,6 +15,26 @@ public class HomeController : Controller
 
     public IActionResult Index()
     {
+        ViewBag.DiccPaquetes = OrtWorld.Paquetes;
         return View();
+    }
+
+    public IActionResult SelectPaquete(){
+        ViewBag.Paquete = OrtWorld.Paquetes;
+        ViewBag.ListaHoteles = OrtWorld.ListaHoteles;
+        ViewBag.ListaAereos = OrtWorld.ListaAereos;
+        ViewBag.ListaExcursiones = OrtWorld.ListaExcursiones;
+
+        return View();
+    }
+
+    public IActionResult GuardarPaquete (int Destino, int Hotel, int Aereo, int Excursion){
+        Paquetes paquete1 = new Paquetes(OrtWorld.ListaHoteles[Hotel],OrtWorld.ListaAereos[Aereo],OrtWorld.ListaExcursiones[Excursion]);
+       if (Destino <= 0 || Hotel <= 0 || Aereo <=0 || Excursion <= 0)
+       {
+        return View("selectPaquete");
+       }
+       OrtWorld.IngresarPaquete(OrtWorld.ListaDestinos[Destino], paquete1);
+       return View();
     }
 }
