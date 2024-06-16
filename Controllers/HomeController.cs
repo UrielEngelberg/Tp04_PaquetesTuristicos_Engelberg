@@ -28,10 +28,11 @@ public class HomeController : Controller
         return View();
     }
 
-    public IActionResult GuardarPaquete (int Destino, int Hotel, int Aereo, int Excursion){
+   public IActionResult GuardarPaquete (int Destino, int Hotel, int Aereo, int Excursion){
         Paquetes paquete1 = new Paquetes(OrtWorld.ListaHoteles[Hotel],OrtWorld.ListaAereos[Aereo],OrtWorld.ListaExcursiones[Excursion]);
        if (Destino <= 0 || Hotel <= 0 || Aereo <=0 || Excursion <= 0)
        {
+        ViewBag.ErrorMensaje = "Debe proporcionar todos los parámetros requeridos";
         return View("selectPaquete");
        }
        OrtWorld.IngresarPaquete(OrtWorld.ListaDestinos[Destino], paquete1);
