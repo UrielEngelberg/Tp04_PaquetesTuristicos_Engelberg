@@ -16,6 +16,7 @@ public class HomeController : Controller
     public IActionResult Index()
     {
         ViewBag.DiccPaquetes = OrtWorld.Paquetes;
+         viewBag.ErrorMensaje = HomeController.GuardarPaquete;
         return View();
     }
 
